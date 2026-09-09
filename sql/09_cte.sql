@@ -9,7 +9,7 @@ WITH department_salary AS (
 SELECT *
 FROM department_salary;
 
-
+ 
 -- 2. Find employees earning above their department average
 WITH department_salary AS (
     SELECT
