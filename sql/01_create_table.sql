@@ -11,3 +11,4 @@ CREATE TABLE employees (
     experience_years INT,
     location VARCHAR(50)
 );
+
